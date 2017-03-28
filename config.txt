@@ -1,0 +1,11 @@
+abs_accurance=0.1
+rel_accurance=0.3
+threads=4
+start_x=0
+start_y=0
+max_x=5
+max_y=8
+c=[1 7 6 1]
+a1=[1 2 3 4]
+a2=[1 2 3 4]
+
